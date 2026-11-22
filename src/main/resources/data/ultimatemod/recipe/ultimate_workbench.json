@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "IDI",
+    "ICI",
+    "IDI"
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "D": "minecraft:diamond",
+    "C": "minecraft:copper_ingot"
+  },
+  "result": {
+    "id": "ultimatemod:ultimate_workbench",
+    "count": 1
+  }
+}

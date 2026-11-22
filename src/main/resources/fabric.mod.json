@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "ultimatemod",
+  "version": "${version}",
+  "name": "Ultimate Mod",
+  "description": "Obsidian Ingot, Iron Stick, Ultimate Workbench and Obsidian Pickaxe.",
+  "authors": [],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ultimatemod.UltimateMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

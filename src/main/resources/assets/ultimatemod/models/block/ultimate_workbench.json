@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "ultimatemod:block/ultimate_workbench_north",
+    "down": "ultimatemod:block/ultimate_workbench_bottom",
+    "up": "ultimatemod:block/ultimate_workbench_top",
+    "north": "ultimatemod:block/ultimate_workbench_north",
+    "east": "ultimatemod:block/ultimate_workbench_east",
+    "south": "ultimatemod:block/ultimate_workbench_south",
+    "west": "ultimatemod:block/ultimate_workbench_west"
+  }
+}
